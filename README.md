@@ -1,5 +1,5 @@
-# Kaggle-Titanic-Naive-Bayes
+# Temas II machine learning
 
-Applied Gaussian Naive Bayes algorithm on the Titanic data set from Kaggle.
+Applied several machine learning algorithms to Keggles titanic problem
 
-#### Click on the Titanic.ipynb file to view the whole thing.
+#### Click on the Titanic.ipynb file to star
